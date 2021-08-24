@@ -10,6 +10,8 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name="Eventtable")
+/**test
+**/
 public class Event {
 
 	@Id
