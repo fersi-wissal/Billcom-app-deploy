@@ -26,6 +26,9 @@ import com.billcom.app.enumeration.TaskPriority;
 
 
 @Entity
+/**
+task
+**/
 public class Task {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
